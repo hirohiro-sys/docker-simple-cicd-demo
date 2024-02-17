@@ -1,1 +1,1 @@
-# Docker,AWS,GitHubActions触ってみる
+# Docker, aws, githubactions触ってみる
